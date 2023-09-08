@@ -1,0 +1,107 @@
+.bgblue {
+    background-color: #5a58ff;
+}
+
+.center {
+    margin: 100px auto;
+    background-color: #171826;
+    padding: 20px;
+    padding-bottom: 40px;
+    width: 40%;
+    color: white;
+
+}
+
+.listbox {
+    background-color: #9c27b0;
+    border-radius: 10px;
+    margin: 7px;
+    padding: 10px;
+    transition: 2s background-color;
+}
+
+.listbox:hover {
+    background-color: #467eff;
+    color: #171826
+}
+
+.backbtn {
+    position: relative;
+    left: -10px;
+    top: -3px;
+    text-align: center;
+    background-color: #9c27b0;
+    color: white;
+    /* line-height: 20px; */
+
+}
+
+.backspan {
+    position: relative;
+    left: -50px;
+    top: -3px;
+    cursor: pointer;
+}
+
+.close:hover {
+    cursor: pointer;
+}
+
+.update:hover {
+    cursor: pointer;
+}
+
+.css-k4qjio-MuiFormHelperText-root {
+    color: red;
+}
+
+
+
+/* .ListPanel :nth-child(1) {
+    background-color: #467eff;
+}
+
+.ListPanel :nth-child(2) {
+    background-color: #e52fbf;
+}
+
+.ListPanel :nth-child(3) {
+    background-color: #e75f30;
+} */
+
+
+
+label {
+    color: '#ffffff';
+}
+
+/* .purpleborder {
+    border: 2px solid #5610ff;
+
+} */
+
+.fontWhite {
+    color: white;
+}
+
+.btnAdd {
+    position: relative;
+    left: -89px;
+    top: 1.5px;
+    border-radius: 50%;
+}
+
+.Edit {
+    position: absolute;
+    left: -112px;
+    top: 1.5px;
+    background-color: #467eff;
+    padding: 7px 11px;
+    line-height: 5px;
+}
+
+.UpdatePanel {
+    position: relative;
+    top: -10px;
+    left: 40px
+}
